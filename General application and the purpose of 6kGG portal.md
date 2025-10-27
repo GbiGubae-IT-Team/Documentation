@@ -1,8 +1,8 @@
-General application and the purpose of the portal
+#General application and the purpose of the portal
 
-አንቀጽ ሦስት
+## አንቀጽ ሦስት
 
-አንቀጽ አምስት
+## አንቀጽ አምስት
 
 Criteria for using our system(portal) as gebi gubaye
 
@@ -38,7 +38,7 @@ Activities and responsibilities of የግቢ ጉባኤ ጠቅላላ ጉባኤ፤
 
 They appoint ሥራ አስፈጻሚ ጉባኤ members and head of audit class by consulting (in the presence) of consulting organization of the gebi gubaye(የማእከሉ ተወካዮች እና የሚመለከታቸው አካላት)
 
-Article 12
+## Article 12
 
 Gibi Gubaes General congregation actions and responsibility
 
