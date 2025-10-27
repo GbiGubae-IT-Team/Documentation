@@ -32,8 +32,9 @@ For a student to be registered: It must provide
 University name, student name and student Id,department, “kirstina sem”, disability status, language status, age, religious background…
 ## Article 11
 Decision makers at gebi gubaye organizations
--i. የግቢ ጉባኤ ጠቅላላ ጉባኤ፤
--ii. የግቢ ጉባኤ ሥራ አስፈጻሚ ጉባኤ፣
+
+1. የግቢ ጉባኤ ጠቅላላ ጉባኤ፤
+2. የግቢ ጉባኤ ሥራ አስፈጻሚ ጉባኤ፣
 
 ## Article 12
 
