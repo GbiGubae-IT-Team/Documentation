@@ -66,7 +66,7 @@ Gibi Gubaes General congregation (የግቢ ጉባኤ ጠቅላላ ጉባኤ) ac
 4. The Division for Coordination of Programs and Activities
 5. The Division for Language and Special Interests Services
 6. The Division for Development and Income Generation
-7. The Division for and Arts
+7. The Division for hymn and Arts
 8. The Division for Profession and Charitable Coordination
 9. The Division for Accounting and Property
 10. The Division for Planning, Reporting, and Information Management
