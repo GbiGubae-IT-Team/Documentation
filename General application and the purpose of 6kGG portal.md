@@ -78,86 +78,113 @@ Gibi Gubaes General congregation (የግቢ ጉባኤ ጠቅላላ ጉባኤ) ac
 
 # I.Membership & Elections
 
-## i.Membership & Eligibility Management
+    ## i.Membership & Eligibility Management
 
-### FR 1: The system shall allow registering Gibi Gubae members
+    	### FR 1: The system shall allow registering Gibi Gubae members
 
-### FR 2 : The system shall store and verify eligibility criteria for executive committee nominees
+    	### FR 2 : The system shall store and verify eligibility criteria for executive committee nominees
 
-## Article 14
+    			## Article 14
 
-### Criteria for executive
+    			### Criteria for executive
 
-1. Based on previous data and reports the system will verify user’s participation in any program organized by the Gibi Gubae
+    			1. Based on previous data and reports the system will verify user’s participation in any program organized by the Gibi Gubae
 
-2. The system should have a functionality which check the nominees proper understanding of the structure, vision, mission, goal, etc., of the Mahbere Kidusan.these may be based on examination or report from the center.
-3. Based on reports the system should check
+    			2. The system should have a functionality which check the nominees proper understanding of the structure, vision, mission, goal, etc., of the Mahbere Kidusan.these may be based on examination or report from the center.
+    			3. Based on reports the system should check
 
-- weather the nominees is free from religious heresy, and is submissive to the order and canon of the Church, as well as to the rules and guidelines of the Mahbere Kidusan;
-- Does not engage in any political activity in the name of the Mahibere Kidusan
-- Is willing to accept and serve all Orthodox children of the Church (especially members of the Gibi Gubae) equally
-- Is distinguished by Christian conduct and is an example to others
-- Has sufficient understanding of the Service Guideline and Rule of the Gibi Gubae and is fully willing to serve accordingly;
-- Is trustworthy in communication, can express his/her ideas, and is able to serve in harmony with anyone;
-- The service does not exert high pressure on his/her academic studies (if possible, one who has better academic results will be selected).
+    			- weather the nominees is free from religious heresy, and is submissive to the order and canon of the Church, as well as to the rules and guidelines of the Mahbere Kidusan;
+    			- Does not engage in any political activity in the name of the Mahibere Kidusan
+    			- Is willing to accept and serve all Orthodox children of the Church (especially members of the Gibi Gubae) equally
+    			- Is distinguished by Christian conduct and is an example to others
+    			- Has sufficient understanding of the Service Guideline and Rule of the Gibi Gubae and is fully willing to serve accordingly;
+    			- Is trustworthy in communication, can express his/her ideas, and is able to serve in harmony with anyone;
+    			- The service does not exert high pressure on his/her academic studies (if possible, one who has better academic results will be selected).
 
-4. The system should check the nominee has resided on campus for more than one year
-5. Also the system must check A nominee who are nominated for an executive position ,must not be graduating that year (using data from registration )
-6. Using Role data from registration system and participation data from attendance system the system should check nominees weather has served in the Gibi Gubae service for at least one year or more as a member, and preferably in a sub-unit leadership role
+    			4. The system should check the nominee has resided on campus for more than one year
+    			5. Also the system must check A nominee who are nominated for an executive position ,must not be graduating that year (using data from registration )
+    			6. Using Role data from registration system and participation data from attendance system the system should check nominees weather has served in the Gibi Gubae service for at least one year or more as a member, and preferably in a sub-unit leadership role
 
-### FR 3 :The system shall prevent nomination if a nominee does not meet eligibility rules above
+    	### FR 3 :The system shall prevent nomination if a nominee does not meet eligibility rules above
 
-### FR 4 :The system shall notify enforcement officers when a member violates eligibility requirements.
+    	### FR 4 :The system shall notify enforcement officers when a member violates eligibility requirements.
 
-## ii.Election & Term Management
+    ## ii.Election & Term Management
 
-### FR 5: The system shall manage executive committee elections annually
+    	### FR 5: The system shall manage executive committee elections annually
 
-### FR 6 : The system shall restrict re-election to only one additional term (Article 17)
+    	### FR 6 : The system shall restrict re-election to only one additional term (Article 17)
 
-### FR 7 : The system shall track term start and end dates.
+    	### FR 7 : The system shall track term start and end dates.
 
-### FR 8 : The system shall generate alerts for upcoming term expiry.
+    	### FR 8 : The system shall generate alerts for upcoming term expiry.
 
-## iii.Member Replacement Workflow
+    ## iii.Member Replacement Workflow
 
-### FR 9 : The system shall allow submission of requests for replacement with reasoning
+    	### FR 9 : The system shall allow submission of requests for replacement with reasoning. (Article 16 )
+    	### FR 10 : The system shall support approval workflows including handover
+    	            and Center confirmation. ( Article 16 )
 
-### Article 16
-
-.
-.
-FR 10 : The system shall support approval workflows including handover and Center confirmation.
-
-### Article 16
-
-    	.
-    	.
-
-         FR 11 : The system shall automatically update committee composition after 		replacement is approved.
+    	### FR 11 : The system shall automatically update committee composition after replacement is approved.
+        ### **    : The system shall allow the executive commitee to replaces up to 4 absent Executive Committee members
 
 # II.Governance & Meetings
 
-## i.Role & Duty Execution Tracking
+    ## i.Role & Duty Execution Tracking
 
-## ii.Meeting Management
+        ### FR 12 : The system shall allow service units to submit performance reports.
+    	### FR 13 : The system shall allow the Executive Committee to review and approve plans and reports (Article 15).
+    	### FR 14 : The system shall track cooperation and communication with local parish and Center.
+    	### FR 15 : The system shall manage nomination of delegates to programs prepared by the Center.
 
-## iii.Mutual Support Coordination
+    ## ii.Meeting Management
 
-## III.Reporting & Planning
+        ### FR 16 : The system shall manage weekly Executive Committee meetings with attendance tracking.
+    	### FR 17 : The system shall check quorum conditions (two-thirds rule) before allowing decisions (Article 18).
+    	### FR 18 : The system shall store meeting agendas and decisions.
 
-i.Annual Plan & Reporting
-IV.Publications & Resources
-i.Publication Production & Distribution
+    ## iii.Mutual Support Coordination
+
+    	### FR 19 : The system shall track support activities between large and small campus fellowships (Article 24).
+    	### FR 20 : The system shall allow Centers to monitor and issue directives.
+
+# III.Reporting & Planning
+
+    ## i.Annual Plan & Reporting
+
+    	### FR 21 : The system shall manage annual plans, budgets, and report submissions.
+    	### FR 22 : The system shall enforce timelines for submission, Financial and property reports every 3 months,
+    	            performance reports every 6 months , once-yearly General Assembly. (Article 25)
+    	### FR 23 : The system shall track approval results and feedback.
+        ### FR ** : The system shall track the start(Meskerem 1) and end(Pagume 5/6) of the fiscal year.
+
+# IV.Publications & Resources
+
+    ## i.Publication Production & Distribution
+    	### FR 24 : The system shall manage teaching material and publication inventory (Article 20).
+    	### FR 25 : The system shall control distribution permissions according to guideline rules.
+    	### FR 26 : The system shall implement cost-sharing mechanisms.
+    	### FR ** : The system shall prevent distribute any kind of publication, electronic, or
+    				audio-visual results to Campus Fellowship students unless permitted by joint special decision
+    				of the Campus Fellowships Service Coordination and the concerned Center.
 
 # V.Finance & Assets
 
-i.Financial & Asset Management
+    ## i.Financial & Asset Management
+    	### FR 27 : The system shall support financial record keeping based on the relevant guideline (Article 25).
+    	### FR 28 : The system shall generate quarterly reports and audits to the Center.
+    	### FR 29 : The system shall restrict large fundraising or project activities until Center approval is documented.
+        ### FR ** : The system shall support presenting the initial proposal to their Center and pendding approval,
+    	            when Campus Fellowships consider new and  extensive fundraising processes beyond the usual and minor options. (Article 22)
 
 # VI.Communication
 
-i.Communication & Information Sharing
+    ## i.Communication & Information Sharing
+    	### FR 30 : The system shall provide communication tools such as announcements, messaging, and document sharing (Article 23).
+    	### FR 31 : The system shall manage contacts between Campus Fellowships and their Centers.
 
 # VII.Compliance
 
-i.Guideline Compliance
+    ## i.Guideline Compliance
+    	### FR 32 : The system shall ensure that all operations follow the latest approved guideline.
+    	### FR 33 : The system shall store referenced documents and ensure compliance checks.
