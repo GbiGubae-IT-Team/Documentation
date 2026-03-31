@@ -49,3 +49,28 @@ Currently, the Education Sub-Division faces the following challenges:
 To build a simple, scalable, and user-friendly digital platform that supports spiritual growth and education through accessible content, interaction, and structured learning.
 
 ---
+
+# 4. MVP Definition (Minimum Viable Product)
+
+## 4.1 MVP Goal
+
+To validate core user needs by delivering a simple but functional system focused on high-impact features.
+
+## 4.2 MVP Features
+
+- User Registration & Login
+- Course Resource Sharing
+  - Upload/download materials
+
+- Q&A System
+  - Ask questions
+  - Answer/reply functionality
+
+## 4.3 Out of Scope (For MVP)
+
+- Email magazine automation
+- Video content system
+- Online courses (advanced)
+- Exam and result tracking
+
+---
