@@ -127,3 +127,25 @@ To measure product effectiveness:
   **Metric:** Number of questions posted
 
 ---
+
+# 9. System Architecture (High-Level)
+
+## 9.1 Frontend
+
+- Web interface (Tech stack to be decided)
+
+## 9.2 Backend
+
+- REST API (Tech stack to be decided)
+
+## 9.3 Database
+
+- Relational database (Tech stack to be decided)
+
+## 9.4 Core Modules
+
+- Authentication Module
+- Resource Management Module
+- Q&A Module
+
+---
