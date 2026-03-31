@@ -188,3 +188,22 @@ To measure product effectiveness:
 - Content Manager
 
 ---
+
+# 13. Workflow & Process
+
+- Agile development approach
+- Weekly sprints
+- Continuous feedback from users
+- Iterative improvement based on data
+
+---
+
+# 14. Risks & Mitigation
+
+| Risk              | Mitigation                                   |
+| ----------------- | -------------------------------------------- |
+| Low user adoption | Early testing with in education sub division |
+| Over-engineering  | Strict MVP focus                             |
+| Lack of feedback  | Regular user interaction                     |
+
+---
