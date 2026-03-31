@@ -107,3 +107,23 @@ To measure product effectiveness:
 - Engagement time per user
 
 ---
+
+# 8. Experimentation Plan
+
+## 8.1 Experiment 1: Content Delivery
+
+- Version A: Email distribution
+- Version B: Platform-based access
+  **Metric:** Engagement rate
+
+## 8.2 Experiment 2: Video Content
+
+- Short videos vs long videos
+  **Metric:** Completion rate
+
+## 8.3 Experiment 3: Q&A Participation
+
+- Anonymous vs identified users
+  **Metric:** Number of questions posted
+
+---
