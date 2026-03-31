@@ -43,3 +43,9 @@ Currently, the Education Sub-Division faces the following challenges:
 - Absence of progress tracking and exam support
 
 ---
+
+# 3. Product Vision
+
+To build a simple, scalable, and user-friendly digital platform that supports spiritual growth and education through accessible content, interaction, and structured learning.
+
+---
