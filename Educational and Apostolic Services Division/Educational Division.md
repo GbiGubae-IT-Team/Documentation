@@ -149,3 +149,42 @@ To measure product effectiveness:
 - Q&A Module
 
 ---
+
+# 10. User Roles & Permissions
+
+| Role    | Permissions                        |
+| ------- | ---------------------------------- |
+| Admin   | Manage users, content, and system  |
+| Teacher | Upload resources, answer questions |
+| Student | Access resources, ask questions    |
+
+---
+
+# 11. Development Plan
+
+## Phase 1 (MVP)
+
+- Authentication
+- Resource sharing
+- Q&A system
+
+## Phase 2
+
+- Email integration
+- Video content
+
+## Phase 3
+
+- Courses and exams
+- Analytics and tracking
+
+---
+
+# 12. Team Structure
+
+- Project Lead (Project Owner)
+- Backend Developer
+- Frontend Developer
+- Content Manager
+
+---
