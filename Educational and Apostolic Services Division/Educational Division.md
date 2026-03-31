@@ -60,11 +60,11 @@ To validate core user needs by delivering a simple but functional system focused
 
 - User Registration & Login
 - Course Resource Sharing
-  - Upload/download materials
+- Upload/download materials
 
 - Q&A System
-  - Ask questions
-  - Answer/reply functionality
+- Ask questions
+- Answer/reply functionality
 
 ## 4.3 Out of Scope (For MVP)
 
@@ -72,5 +72,38 @@ To validate core user needs by delivering a simple but functional system focused
 - Video content system
 - Online courses (advanced)
 - Exam and result tracking
+
+---
+
+# 5. Key Features (Future Scope)
+
+- Email-based magazine distribution
+- Short religious video content delivery
+- Full online course system
+- Exam management and result tracking
+- Notification system
+
+---
+
+# 6. Hypotheses (Lean Approach)
+
+The following assumptions will be tested:
+
+- Students will actively use a centralized resource platform
+- A Q&A system will increase engagement and participation
+- Digital content delivery improves consistency of learning
+- Users prefer short-form content over long materials
+
+---
+
+# 7. Success Metrics
+
+To measure product effectiveness:
+
+- Number of active users (daily/weekly)
+- Number of resources accessed/downloaded
+- Number of questions asked and answered
+- User retention rate
+- Engagement time per user
 
 ---
