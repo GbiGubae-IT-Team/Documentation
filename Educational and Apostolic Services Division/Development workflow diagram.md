@@ -1,9 +1,10 @@
+```mermaid
 sequenceDiagram
-participant TA as Data/Technical Group
-participant DB as Metadata Database
-participant BE as Backend System
-participant FE as Frontend (User/Teacher)
-participant AD as Admin Dashboard
+    participant TA as Data/Technical Group
+    participant DB as Metadata Database
+    participant BE as Backend System
+    participant FE as Frontend (User/Teacher)
+    participant AD as Admin Dashboard
 
     Note over TA, DB: Data Pipeline Phase
     TA->>TA: Scrape Telegram (Python)
@@ -20,3 +21,4 @@ participant AD as Admin Dashboard
     FE->>BE: Teacher Submits Answer
     BE->>FE: Update State to "Answered"
     AD->>BE: Fetch Dashboard Stats (Total Users/QA)
+```

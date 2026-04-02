@@ -72,6 +72,7 @@ To validate core user needs by delivering a simple but functional system focused
 - Video content system
 - Online courses (advanced)
 - Exam and result tracking
+- Separete discusion rooms
 
 ---
 
